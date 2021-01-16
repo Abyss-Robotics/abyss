@@ -9,7 +9,7 @@ We will go through the following steps during the next week, until the repositor
 |------|-------|
 | Code cleaning and bugs solving | Under progress |
 | Comments | Not done |
-| Setup tutorial | Not done |
+| Setup tutorial | Not done |
 
 Then, the project should be easy to install and understand. We will start improving the functionnalities and adding new ones.
 
